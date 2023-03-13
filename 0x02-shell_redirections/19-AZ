@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "input string with A's and c's" |tr 'Ac' 'ze'
